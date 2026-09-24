@@ -1,4 +1,7 @@
 ---
+genres:
+  - casual
+  - puzzle
 post: https://github.com/markknol/js13k-2020/blob/master/README.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
